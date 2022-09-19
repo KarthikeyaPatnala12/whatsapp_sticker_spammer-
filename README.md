@@ -1,4 +1,4 @@
-# whatsapp sticker spammer
+# Whatsapp Sticker Spammer
 This program is to create sticker spams on whatsapp.
 
 You are required to have install python in your local machine The current version of python used in this code is Python 3.9.1 first clone the repo to your local machine and than install the required dependencies. 
