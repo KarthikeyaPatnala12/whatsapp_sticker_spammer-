@@ -27,11 +27,11 @@ $ python3 main.py
 
 To start contributing, follow the below guidelines: 
 
-**1.**  Fork [this](https://github.com/shubhasai/spamming_bot.git) repository.
+**1.**  Fork [this](https://github.com/KarthikeyaPatnala12/whatsapp_sticker_spammer-.git) repository.
 
 **2.**  Clone your forked copy of the project.
 
-     $ git clone https://github.com/<your_user_name>/spamming_bot.git
+     $ git clone https://github.com/<your_user_name>/whatsapp_sticker_spammer-.git
 
      
 **3.** Checkout into a new branch 
