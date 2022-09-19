@@ -20,7 +20,7 @@ $ cd whatsapp_sticker_spammer-
 
 3.Run
 ```sh
-$ python3 <file_name> 
+$ python3 main.py  
 ```
 
 
