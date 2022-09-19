@@ -23,5 +23,33 @@ $ cd whatsapp_sticker_spammer-
 $ python3 main.py  
 ```
 
+## Want to Contribute?
+
+To start contributing, follow the below guidelines: 
+
+**1.**  Fork [this](https://github.com/shubhasai/spamming_bot.git) repository.
+
+**2.**  Clone your forked copy of the project.
+
+     $ git clone https://github.com/<your_user_name>/spamming_bot.git
+
+     
+**3.** Checkout into a new branch 
+
+     $ git checkout -b <branch_name>
+
+**4.** Make your changes
+
+**5.** Add and commit your changes
+
+     $ git add . && git commit -m "<your_message>"
+     
+**6.** Push Code to Github under your branch 
+
+     $ git push origin <branch_name>   
+
+
+You can install these by using pip command from your terminal.
+
 
 
