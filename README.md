@@ -10,7 +10,7 @@ Dependencies are:
  
 1.Clone the app in your machine
 ```sh
-$ git clone 
+$ git clone https://github.com/KarthikeyaPatnala12/whatsapp_sticker_spammer-.git
 ```
 2.Move in to the directory
 
