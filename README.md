@@ -15,7 +15,7 @@ $ git clone https://github.com/KarthikeyaPatnala12/whatsapp_sticker_spammer-.git
 2.Move in to the directory
 
 ```sh
-$ cd whatsapp_sticker_spammer
+$ cd whatsapp_sticker_spammer-
 ```
 
 3.Run
