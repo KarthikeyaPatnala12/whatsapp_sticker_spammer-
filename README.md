@@ -8,17 +8,17 @@ Dependencies are:
 - time #already present in you browser
 - webbrowser
  
-##1.Clone the app in your machine
+1.Clone the app in your machine
 ```sh
 $ git clone 
 ```
-##2.Move in to the directory
+2.Move in to the directory
 
 ```sh
 $ cd whatsapp_sticker_spammer
 ```
 
-##3.Run
+3.Run
 ```sh
 $ python3 <file_name> 
 ```
