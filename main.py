@@ -4,7 +4,7 @@ import webbrowser as wb
 import time
 
 n = int(input("Enter number of messages: "))
-k = input("Enter the name of contact or group: ")
+k = input("Enter the name of contact or group or phone number that you have already texted: ")
 
 msedge_path=r"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
 #you can use any browser as you want by changing the path but you can use edge as default
@@ -21,7 +21,7 @@ ti.write(k)
 time.sleep(1)
 
 ti.click(x=230, y=350)
-ti.hotkey('ctrl', 's')
+#ti.hotkey('ctrl', 's')
 
 #ti.click(x=620, y=950)
 ti.click(x=786, y=955)
