@@ -23,10 +23,16 @@ $ cd whatsapp_sticker_spammer-
 $ python3 main.py  
 ```
 
-After cloning the app if any error occurs you need rechange the locations according to your screen locations. 
+- After cloning the app if any error occurs you need rechange the locations according to your screen locations. 
 open Terminal/CMD or Python IDLE run these commands to know the locations of individual stickers. 
-import pyautogui
+
+```sh 
+import pyautogui 
+```
+
+```sh
 pyautogui.position() 
+```
 
 
 ## Want to Contribute?
