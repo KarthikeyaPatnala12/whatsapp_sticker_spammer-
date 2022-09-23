@@ -1,28 +1,23 @@
-
+from AppOpener import run
 import pyautogui as ti 
 import webbrowser as wb
 import time
 
+
 n = int(input("Enter number of messages: "))
 k = input("Enter the name of contact or group: ")
 
-msedge_path=r"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
-#you can use any browser as you want by changing the path but you can use edge as default
-url="web.whatsapp.com"
-wb.register("msedge",None,wb.BackgroundBrowser(msedge_path))
-wb.get("msedge").open_new_tab(url)
-
+run("whatsapp")
 time.sleep(15)
 
-ti.click(x=261, y=84)
+#you need to change your positions according to your sticker positions 
+ti.click(x=478, y=220)
 ti.write(k)
 
+time.sleep(2)
+ti.click(x=314, y=501)
 
-time.sleep(1)
-
-ti.click(x=230, y=350)
 ti.hotkey('ctrl', 's')
+ti.click(x=1386, y=942 ,clicks=n)
 
-#ti.click(x=620, y=950)
-ti.click(x=786, y=955)
-ti.click(x=910, y=730 ,clicks=n)
+
