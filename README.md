@@ -6,7 +6,7 @@ You are required to have install python in your local machine The current versio
 Dependencies are:
 - Pyautogui
 - time #already present in you browser
-- webbrowser
+- whatsapp desktop 
  
 1.Clone the app in your machine
 ```sh
@@ -23,7 +23,11 @@ $ cd whatsapp_sticker_spammer-
 $ python3 main.py  
 ```
 
-After cloning the app if any error occurs you need rechange the locations as your screen width. 
+After cloning the app if any error occurs you need rechange the locations according to your screen locations. 
+open Terminal/CMD or Python IDLE run these commands to know the locations of individual stickers. 
+import pyautogui
+pyautogui.position() 
+
 
 ## Want to Contribute?
 
