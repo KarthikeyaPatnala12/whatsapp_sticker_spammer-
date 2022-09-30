@@ -5,6 +5,7 @@ You are required to have install python in your local machine The current versio
 
 Dependencies are:
 - Pyautogui
+- AppOpener
 - time #already present in you browser
 - whatsapp desktop 
  
